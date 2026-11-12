@@ -1,11 +1,14 @@
-<script setup>//写js
+<script setup>
 
+import NavBar from "@/components/navbar/NavBar.vue";
 </script>
 
-<template>//写html
-
+<template>
+  <NavBar>
+    页面内容
+  </NavBar>
 </template>
 
-<style scoped>//写css
+<style scoped>
 
 </style>
