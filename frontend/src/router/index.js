@@ -38,7 +38,7 @@ const router = createRouter({
     },
     {
       path:'/user/account/register/',
-      component:SpaceIndex,
+      component:RegisterIndex,
       name:'user-account-register-index',
     },
     {
